@@ -1,0 +1,26 @@
+25
+9781400031146;The Landmark Herodotus: The Histories;Herodotus;Anchor Books
+9780425095799;His Last Bow;Doyle,Sir Arthur Conan;Berkley
+9780425080023;Dune;Herbert,Frank;Berkley
+9781230212272;The Laughing Cavalier;Orczy,Baroness;CreateSpace
+9781427034212;A Study in Scarlet;Doyle,Sir Arthur Conan;CreateSpace
+9781516927470;The Exploits of Brigadier Gerard;Doyle,Sir Arthur Conan;CreateSpace
+9780743487740;The Scarlet Pimpernel;Orczy,Baroness;Dalmatian Press
+9780345391803;The Hitchhiker's Guide to the Galaxy;Adams,Douglas;Del Rey
+9781887368919;The Dragon Who Ate His Tail;Bradbury,Ray;Gauntlet Press
+9780345339683;The Hobbit;Tolkien,J.R.R.;Harper Collins
+9781846559211;The Strange Library;Murakami,Haruki;Harvill Secker
+9780395346464;The Silmarillion;Tolkien,J.R.R.;Houghton Mifflin
+9780394578774;A Graveyard for Lunatics;Bradbury,Ray;Knopf
+9780394547022;Death Is a Lonely Business;Bradbury,Ray;Knopf
+9780307593313;1Q84;Murakami,Haruki;Knopf
+9780447745023;The Dunwich Horror;Lovecraft,H.P.;Lancer Books
+9780140437690;The Legend of Sleepy Hollow;Irving,Washington;Penguin Classics
+9780143039983;The Haunting of Hill House;Jackson,Shirley;Penguin Classics
+9780140424386;The Canterbury Tales;Chaucer,Geoffrey;Penguin Classics
+9780140447699;Njal's Saga;Anonymous,Cook,Robert;Penguin Classics
+9781926801056;The Call of Cthulhu;Lovecraft,H.P.;Prohyptikon
+9780765387868;The Ballad of Black Tom;Lavalle,Victor;Tor
+9780472061563;The Conjure Woman;Chesnutt,Charles W.;University of Michigan Press
+9780375705908;Slapboxing With Jesus;Lavalle,Victor;Vintage
+9781939905215;The Fisherman;Langan,John;Word Horde
